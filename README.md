@@ -7,7 +7,7 @@ This script download and install the last version of AWS CLI v2, install it in a
 To have access to AWS cli in the current shell session run:	
 
 ```sh
-source <whatever/path/to/script/>download-and-install.sh
+source <whatever/path/to/script/install/cli/>download-and-install.sh
 ```
 
 
